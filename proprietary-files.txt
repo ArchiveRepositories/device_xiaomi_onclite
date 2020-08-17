@@ -1102,8 +1102,6 @@ vendor/bin/hw/android.hardware.gnss@2.0-service-qti|a199db62516c837b2d18fff4fe75
 vendor/bin/loc_launcher|1565f326b4fd46d6dfacd0e0804254611892d019
 vendor/bin/lowi-server|e1999a217da0addaa713c5f7650608cf2a360726
 vendor/bin/slim_daemon|071ec8afa27e0ee26f21e5091e0b9245ef233184
-vendor/lib64/libwifi-hal-ctrl.so|0214a09aac05d900a7cc0aa5f4c8cb5d3744805a
-vendor/lib/libwifi-hal-ctrl.so|962fe10988d0fe4542d755d51b5a7e158b2cad67
 vendor/bin/xtra-daemon|5269d753453fdb7fcbd4052873cdba490ff49391
 vendor/bin/xtwifi-client|6e5eb60c6b63489ac50739958a5a97e0ed718a81
 vendor/bin/xtwifi-inet-agent|5ca9d495374c8476e728e1c7609d0195fa0e871c
